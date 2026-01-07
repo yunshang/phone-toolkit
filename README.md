@@ -2,8 +2,6 @@
 
 **International phone number parsing, validation, and formatting library for Python**
 
-[![CI](https://github.com/yourusername/phone-toolkit/workflows/CI/badge.svg)](https://github.com/yourusername/phone-toolkit/actions)
-[![codecov](https://codecov.io/gh/yourusername/phone-toolkit/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/phone-toolkit)
 [![Python Versions](https://img.shields.io/pypi/pyversions/phone-toolkit.svg)](https://pypi.org/project/phone-toolkit/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -104,8 +102,8 @@ This project uses modern Python tooling and best practices:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/phone-parser.git
-cd phone_py
+git clone https://github.com/yunshang/phone-toolkit.git
+cd phone-toolkit
 
 # Using uv (recommended - faster and better dependency resolution)
 uv venv
@@ -139,7 +137,7 @@ make qa  # Run all quality checks
 ### Project Structure
 
 ```
-phone_py/
+phone-toolkit/
 ├── src/
 │   └── phone_parser/         # Source code (src layout)
 │       ├── __init__.py
