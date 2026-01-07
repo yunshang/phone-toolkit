@@ -9,7 +9,7 @@ description = "International phone number parsing, validation, and formatting li
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Your Name", email = "your.email@example.com" }]
+authors = [{ name = "alshin", email = "alshin@126.com" }]
 keywords = ["phone", "parser", "validation", "formatting", "international"]
 classifiers = [
 	"Development Status :: 4 - Beta",
